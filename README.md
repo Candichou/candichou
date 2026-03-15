@@ -27,13 +27,13 @@ axée sur l'architecture & le développement web.
 
 ## 🌱 En ce moment
 
-- 💃 J'apprends le **waacking** — parce que le code c'est bien, mais bouger c'est vital
-- 🧠 Je plonge dans la **biologie**, les **neurosciences** et la **psychologie**
+- 💃 J'apprends en ce moment le **waacking** — parce que le code c'est bien, mais bouger c'est vital
+- 🧠 J'aime lire de temps en temps des articles sur la **biologie**, les **neurosciences** et la **psychologie**
 - 🎨 Toujours en quête d'un nouveau truc artistique à explorer
 
 ---
 
 ## 📬 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/candice-chevret
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:candice.chevret@gmail.com)
+www.linkedin.com/in/candice-chevret
+candice.chevret@gmail.com
