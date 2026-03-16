@@ -1,12 +1,8 @@
 # Bonjour, moi c'est Candice 👋
 
-> *« Je ne perds jamais. Soit je gagne, soit j'apprends. »* — Maya Angelou
+Étudiante en développement web full stack, avec 6 mois de formation intensive derrière moi et une vraie envie de continuer à progresser. J’apprends vite, je pose beaucoup de questions et j’aime comprendre comment les choses fonctionnent, de la structure d’une application à son expérience utilisateur.
 
-Étudiante en dev web full stack avec 6 mois de formation intensive
-derrière moi — et une vraie faim d'aller plus loin. J'apprends vite,
-je pose beaucoup de questions, et je ne lâche pas facilement.
-
-🔍 **À la recherche d'une alternance de 24 mois** pour septembre 2025,
+🔍 **À la recherche d'une alternance de 24 mois** pour septembre 2026,
 axée sur l'architecture & le développement web.
 
 ---
@@ -25,15 +21,16 @@ axée sur l'architecture & le développement web.
 
 ---
 
-## 🌱 En ce moment
+## 🌱 en parallèle du code
 
-- 💃 J'apprends en ce moment le **waacking** — parce que le code c'est bien, mais bouger c'est vital
-- 🧠 J'aime lire de temps en temps des articles sur la **biologie**, les **neurosciences** et la **psychologie**
-- 🎨 Toujours en quête d'un nouveau truc artistique à explorer
+💃 J’apprends le waacking, parce qu’aimer le code n’empêche pas d’aimer bouger
+🧠 Je m’intéresse à la biologie, aux neurosciences et à la psychologie
+🎨 J’aime explorer de nouvelles pratiques créatives
 
 ---
 
 ## 📬 Me contacter
 
 www.linkedin.com/in/candice-chevret
+
 candice.chevret@gmail.com
