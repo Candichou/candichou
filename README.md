@@ -23,9 +23,9 @@ axée sur l'architecture & le développement web.
 
 ## 🌱 en parallèle du code
 
-💃 J’apprends le waacking, parce qu’aimer le code n’empêche pas d’aimer bouger
-🧠 Je m’intéresse à la biologie, aux neurosciences et à la psychologie
-🎨 J’aime explorer de nouvelles pratiques créatives
+- 💃 J’apprends le waacking, parce qu’aimer le code n’empêche pas d’aimer bouger
+- 🧠 Je m’intéresse à la biologie, aux neurosciences et à la psychologie
+- 🎨 J’aime explorer de nouvelles pratiques créatives
 
 ---
 
